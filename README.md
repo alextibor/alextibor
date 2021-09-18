@@ -4,7 +4,7 @@
 - 🌱 Atualmente, estou aprendendo C # e Java
 - 🤔 Quer ser um bom dev
 - 📫 Como me encontrar: Meus contatos estão abaixo.
-- ⚡ Fun fact: ¯\_( ͡ᵔ ͜ʖ ͡ᵔ)_/¯ (Amo o bom e velho emoticon xD)
+- ⚡ Fun fact: ( ͠ᵔ ͜ʖ ͡ᵔ) (Amo o bom e velho emoticon xD)
 
  
 <div style="display: inline_block"><br>
