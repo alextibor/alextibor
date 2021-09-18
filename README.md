@@ -1,16 +1,25 @@
-### Hi there 👋
+### Pode me chamar de Alex! 👋
 
-<!--
-**alextibor/alextibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando em um projeto chamado voipAPI
+- 🌱 Atualmente, estou aprendendo C # e Java
+- 🤔 Quer ser um bom dev
+- 📫 Como me encontrar: Meus contatos estão abaixo.
+- ⚡ Fun fact: ¯\_( ͡ᵔ ͜ʖ ͡ᵔ)_/¯ (Amo o bom e velho emoticon xD)
 
-Here are some ideas to get you started:
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="tibor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="tibor-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="tibor-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
+  <img align="center" alt="tibor-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
+  <img align="right" alt="tibor-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+<a href="https://t.me/alex_tibor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5534988395611" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="mailto:alex.tibor@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/alex.tibor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/alextibor/alextibor/blob/output/github-contribution-grid-snake.svg)
