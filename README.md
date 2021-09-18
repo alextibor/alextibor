@@ -1,10 +1,10 @@
-### Pode me chamar de Alex! 👋
+### Call me Alex! 👋
 
-- 🔭 Estou trabalhando em um projeto chamado voipAPI
-- 🌱 Atualmente, estou aprendendo C # e Java
-- 🤔 Quer ser um bom dev
-- 📫 Como me encontrar: Meus contatos estão abaixo.
-- ⚡ Fun fact: ( ͠ᵔ ͜ʖ ͡ᵔ) (Amo o bom e velho emoticon xD)
+- 🔭 I'm working on a project called voipAPI
+- 🌱 I am currently learning C# and Java
+- 🙂 I want to be a good dev
+- 📫 How to find me: My contacts are below.
+- ⚡ Fun fact: ( ͠ᵔ ͜ʖ ͡ᵔ) (Love the good and old emoticon xD)
 
  
 <div style="display: inline_block"><br>
