@@ -4,8 +4,7 @@
 - 🌱 I am currently learning C# and Java
 - 🙂 I want to be a nice dev
 - 📫 How to find me: My contacts are below.
-- ⚡ Fun fact: ¯\_( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )_/¯ (I love the good and old emoticon xD)
-
+- ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="tibor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
