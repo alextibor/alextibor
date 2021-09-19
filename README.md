@@ -2,7 +2,7 @@
 
 - 🔭 I'm working on a project called voipAPI
 - 🌱 I am currently learning C# and Java
-- 🙂 I want to be a good dev
+- 🙂 I want to be a nice dev
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: ( ͠ᵔ ͜ʖ ͡ᵔ) (Love the good and old emoticon xD)
 
