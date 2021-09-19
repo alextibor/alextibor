@@ -4,14 +4,13 @@
 - 🌱 I am currently learning C# and Java
 - 🙂 I want to be a nice dev
 - 📫 How to find me: My contacts are below.
-- ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
+- ⚡ Fun fact: (👍≖‿‿≖)👍 (I love emoticons xD)
  
-<div style="display: inline_block"><br>
+<div style="display: inline-flex"><br>
   <img align="center" alt="tibor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="tibor-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="tibor-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
   <img align="center" alt="tibor-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-  
 </div>
 
   ##
