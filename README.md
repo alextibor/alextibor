@@ -1,7 +1,7 @@
 ### Call me Alex! 👋
 
-- 🔭 I'm working on a project called voipAPI
-- 🌱 I am currently learning C#
+- 🔭 I'm studying and doing bootcamps to get a job!
+- 🌱 I am currently learning Java!
 - 🙂 I want to be an awesome dev :D
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
