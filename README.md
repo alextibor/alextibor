@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+<img align="right" width="400" height="230" src="https://github.com/alextibor/alextibor/blob/main/repofiles/gif/22fb9575d40e7e62ebae25c03ffa1aee63f7feec_hq.gif?raw=true">
 
 ### Call me Alex! 👋
 
