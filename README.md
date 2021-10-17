@@ -28,8 +28,8 @@
 
   ##
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&line_height=27">
-  <img width="45%" height="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark&layout=compact">
+  <img width="45%" height="45%" src = "https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&line_height=27">
+  <img width="39%" height="39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark&layout=compact">
 </p>
 
 
