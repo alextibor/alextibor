@@ -7,9 +7,13 @@
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
  
 <div style="display: inline-flex"><br>
-  <img align="center" alt="tibor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
-  <img align="center" alt="tibor-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
+ 
+  <img align="center" alt="tibor-linux" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
+   <img align="center" alt="tibor-java" height="30" width="40" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="tibor-spring" height="30" width="40" 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
   ##
