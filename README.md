@@ -1,3 +1,5 @@
+<img align="right" width="400" height="400" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+
 ### Call me Alex! 👋
 
 - 🔭 I'm studying and doing bootcamps to get a job!
@@ -26,9 +28,14 @@
 
   ##
 <p align = "center">
-<img  src = "https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark">
- </p>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&line_height=27">
+  <img width="45%" height="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark&layout=compact">
+</p>
+
+
+<!--
  <p align = "center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alextibor&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" /
- </p>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alextibor&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" /
+</p>
+-->
+
