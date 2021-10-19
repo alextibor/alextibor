@@ -1,5 +1,5 @@
 <img align="right" width="400" height="290" src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/gif/code.gif">
-
+<br>
 ### Call me Alex! 👋
 
 - 🔭 I'm studying and doing bootcamps to get a job!
