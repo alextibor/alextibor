@@ -1,10 +1,10 @@
-<img align="right" width="400" height="290" src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/gif/code.gif">
+<img align="right" width="350" height="240" src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/gif/code.gif">
 <br>
 ### Call me Alex! 👋
 
 - 🔭 I'm studying and doing bootcamps to get a job!
 - 🌱 I am currently learning Java!
-- 🙂 I want to be an awesome dev :D
+- 🙂 I want to be an awesome back-end dev. Take a lot at my repo's xD
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
  
