@@ -20,20 +20,19 @@
 </div>
 
   ##
-
+<h3>Contacts</h3>
 <a href="https://www.linkedin.com/in/alexander-assenheimer-2369961aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:alex.tibor@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
   ##
-<p align = "center">
-  <img width="45%" height="45%" src = "https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&line_height=27">
-  <img width="39%" height="39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark&layout=compact">
-</p>
+
+<div align="center">
+  <a href="https://github.com/alextibor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alextibor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextibor&theme=dark&layout=compact&langs_count=7"/>
+   
+   ![Snake animation](https://github.com/alextibor/alextibor/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
-<!--
- <p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alextibor&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" /
-</p>
--->
 
