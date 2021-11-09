@@ -5,7 +5,7 @@
 
 - 🔭 I'm studying and doing bootcamps to get a job!
 - 🌱 I am currently learning Java!
-- 🙂 I want to be an awesome back-end dev. Take a lot at my repo's xD
+- 🙂 I want to be an awesome back-end dev. Take a look at my repo's xD
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: (👍≖‿‿≖)👍 (I love the good and old emoticon xD)
  
