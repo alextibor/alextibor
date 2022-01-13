@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/7ib0r/templates">
-    <img src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/png/white-hat.png.png" alt="Logo" width="250" height="250">
+    <img src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/png/hacking/white-hat.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center"></h3>
