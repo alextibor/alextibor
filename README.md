@@ -1,31 +1,15 @@
+<div align="center">
+  <a href="https://github.com/7ib0r/templates">
+    <img src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/png/white-hat.png.png" alt="Logo" width="250" height="250">
+  </a>
 
- █████╗ ██╗     ███████╗██╗  ██╗████████╗██╗██████╗  ██████╗ ██████╗ 
-██╔══██╗██║     ██╔════╝╚██╗██╔╝╚══██╔══╝██║██╔══██╗██╔═══██╗██╔══██╗
-███████║██║     █████╗   ╚███╔╝    ██║   ██║██████╔╝██║   ██║██████╔╝
-██╔══██║██║     ██╔══╝   ██╔██╗    ██║   ██║██╔══██╗██║   ██║██╔══██╗
-██║  ██║███████╗███████╗██╔╝ ██╗   ██║   ██║██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-                                                                    
-<br>
+  <h3 align="center"></h3>
 
-### Call me Alex! 👋
- 
-<div style="display: inline-flex"><br>
- 
-  <img align="center" alt="tibor-linux" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg">
-   <img align="center" alt="tibor-java" height="30" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="tibor-spring" height="30" width="40" 
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <p align="center">
+  	I'm a Ethical Hacker student. Check my repos!
+  </p>
+  
 </div>
-
-  ##
-<h3>Contacts</h3>
-<a href="https://www.linkedin.com/in/alextibor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:alex.tibor@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-  ##
 
 <div align="center">
   <a href="https://github.com/alextibor">
@@ -34,3 +18,11 @@
    
    ![Snake animation](https://github.com/alextibor/alextibor/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+---
+
+image: Flaticon.com
+
+
+
+
