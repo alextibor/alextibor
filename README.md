@@ -2,7 +2,7 @@
 
 ### Call me Alex! 👋
 
-- 🎯 Current Goal: Solyd SYCP Certification
+- 🎯 Current Goal: CompTia Security+
 - 🏁 I want to be an awesome Ethical Hacker | Pentester
 - 📫 How to find me: My contacts are below.
 - ⚡ Fun fact: The call came to me when my Tibia account was hacked (👍≖‿‿≖)👍
