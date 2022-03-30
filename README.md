@@ -1,7 +1,7 @@
 <a href="https://www.flaticon.com/premium-icon/white-hat_3323684"><img title="Elastic1/Flaticon.com" align="right" src="https://raw.githubusercontent.com/alextibor/alextibor/main/repofiles/png/hacking/white-hat.png" width="250" height="250"></a>
 
 ### Call me Alex! 👋
-
+- 👨🏻‍💻 Security Analyst 
 - 🎯 Current Goal: CompTia Security+
 - 🏁 I want to be an awesome Ethical Hacker | Pentester
 - 🐍 Python Developer
